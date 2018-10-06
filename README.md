@@ -1,0 +1,2 @@
+# .conkyrc
+my conky profile
